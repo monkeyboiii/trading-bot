@@ -1,0 +1,25 @@
+{
+  "name": "trading-bot",
+  "version": "0.0.1",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeyboiii/trading-bot.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "monkeyboi.eth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monkeyboiii/trading-bot/issues"
+  },
+  "homepage": "https://github.com/monkeyboiii/trading-bot#readme",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
