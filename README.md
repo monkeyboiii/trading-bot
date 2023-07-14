@@ -6,7 +6,8 @@ A crypto trading project (current).
 
 ## Intended Tech Stack
 
--   Timescale DB
 -   NodeJS/Typecript
+-   questdb
 -   Kafka
+-   docker
 -   Kubernetes

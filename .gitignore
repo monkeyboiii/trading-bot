@@ -1,2 +1,13 @@
 # NodeJS
+build/
 node_modules/
+
+
+# devops/
+
+
+.DS_Store
+
+
+# DevOps
+volumes/
